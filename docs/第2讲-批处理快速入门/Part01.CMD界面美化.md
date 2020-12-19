@@ -8,13 +8,21 @@
 
 
 
+> 命令清单
+
+| 命令  | 用途                              |
+| ----- | --------------------------------- |
+| title | 设置cmd命令行模式的**标题栏**信息 |
+| mode  | 调整命令提示符窗口大小            |
+| color | 设置命令行背景色和前景色          |
+
 
 
 ## （1）title
 
 设置cmd命令行模式的**标题栏**信息
 
-```bat
+```batch
 title 标题
 ```
 
@@ -30,7 +38,7 @@ title 标题
 
 调整命令提示符窗口大小，lines代表行数，cols代表列数
 
-```bat
+```batch
 mode con lines=行数 cols=列数
 ```
 
@@ -44,7 +52,7 @@ mode con lines=行数 cols=列数
 
 Tips:如果设置得太小了，比如3行5列，就会报下面的错误
 
-```bat
+```batch
 The screen cannot be set to the number of lines and columns specified.
 //翻译：无法将屏幕设置为指定的行数和列数。
 ```
