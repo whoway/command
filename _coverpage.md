@@ -1,4 +1,4 @@
-<img width="220px" src="./_media/logo.png">
+<img width="220px" src="./_style/logo.png">
 
 
 - 本项目为“Windows命令行九讲”
