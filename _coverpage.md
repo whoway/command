@@ -1,4 +1,4 @@
-<img width="220px" src="./_style/logo.png">
+<img width="220px" src="https://gitee.com/HACV/command/raw/master/_style/logo.png">
 
 
 - 本项目为“Windows命令行九讲”

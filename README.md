@@ -1,6 +1,6 @@
 
 
-![logo](https://hacv.gitee.io/command/_media/logo.png)
+![logo](https://gitee.com/HACV/command/raw/master/_style/logo.png)
 
 <center><font size=6 face="行书">Windows命令行九讲</font></center>
 
@@ -11,7 +11,7 @@
 
 - ### [🎨 第1讲-走进Windows命令行](https://hacv.gitee.io/command/#/)
 
-  - [Part00.Windows命令行九讲]((https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/%E7%AC%AC1%E8%AE%B2))
+  - [Part00.Windows命令行九讲](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/%E7%AC%AC1%E8%AE%B2)
   - [Part01.Windows命令行展示](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part01.Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B1%95%E7%A4%BA)
   - [Part02.历史的年轮](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part02.%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B9%B4%E8%BD%AE)
   - [Part03.学习指南](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part03.%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
@@ -21,7 +21,7 @@
   
   - [Part01.CMD界面美化](./第2讲-批处理快速入门/Part01.CMD界面美化.md)
   - [Part02.第1批3个基础命令](./第2讲-批处理快速入门/Part02.第1批3个基础命令.md)
-  - [Part03.第2批3个基础命令404](./第2讲-批处理快速入门/Part03.第2批3个基础命令.md404)
+  - [Part03.第2批3个基础命令](./第2讲-批处理快速入门/Part03.第2批3个基础命令.md)
   - [Part04.批处理特殊符号404](./第2讲-批处理快速入门/Part04.批处理特殊符号.md404)
 
 
