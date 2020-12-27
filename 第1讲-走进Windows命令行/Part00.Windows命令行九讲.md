@@ -30,7 +30,7 @@
 
 **附加说明**
 
-- 1、目前Dos系统很少人在使用，PowerShell是Windows10才开始承载的，有了Windows命令行基础能够很容易的在上述系统中使用
+- 1、目前Dos系统很少人在使用，PowerShell是Windows8（有待考察）才开始承载的，有了Windows命令行基础能够很容易的在上述系统中使用
 
 - 2、批处理和Batchfile其实是一个意思，批处理(Batch)，也称为批处理脚本。顾名思义，批处理就是对某对象进行**批量的处理**！（这也是为什么，学习这个能够提高某些工作效率的原因:smile:）
 
@@ -47,7 +47,7 @@
 | 操作系统                              | 常见说法                                                     |
 | ------------------------------------- | ------------------------------------------------------------ |
 | Dos操作系统                           | Dos命令行、批处理、Batchfile                                 |
-| WindowsNT/WindowsXP/Windows7/Windows8 | Batchfile、Windows命令行、cmd命令行（command命令行）         |
+| WindowsNT/WindowsXP/Windows7/Windows8 | Batchfile、Windows命令行、cmd命令行（command命令行）、PowerShell命令行 |
 | Windows10                             | Batchfile、Windows命令行、cmd命令行（command命令行）、PowerShell命令行 |
 
 

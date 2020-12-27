@@ -44,7 +44,7 @@
 
   - 4、接着，我们在这个“窗口”中输入以下命令语句，然后按下『enter』键
 
-  ```bat
+  ```batch
 echo Welcome
   ```
   
@@ -72,7 +72,7 @@ echo Welcome
 
 - 2、在其中输出下面两行命令，保存
 
-```bat
+```batch
 echo Welcome
 pause
 ```
@@ -137,7 +137,7 @@ pause
 
 显示日期，某年某月某日，星期几，如果加上`/t`参数则只显示日期，而不用输入新日期。
 
-```bat
+```batch
 C:\Users\MaxWell>date /T
 12/17/2020 Thu
 
@@ -158,7 +158,7 @@ Enter the new date: (mm-dd-yy)
 显示时间，几点几分
 如果加上“/t”参数则只显示时间，而不用输入新时间
 
-```bat
+```batch
 
 C:\Users\MaxWell>time /t
 10:32 AM
@@ -194,7 +194,7 @@ Enter the new time:
 
 显示当前Windows操作系统的版本号
 
-```bat
+```batch
 Microsoft Windows [Version 10.0.16299.1127]
 (c) 2017 Microsoft Corporation。保留所有权利。
 
@@ -218,7 +218,7 @@ pause命令就是暂停的意思,防止批处理执行完后直接退出!
 运行 Pause 命令时，将显示下面的消息：  
 `Press any key to continue. . .(或：请按任意键继续. . .)`
 
-```bat
+```batch
 C:\Users\MaxWell>pause
 Press any key to continue . . .
 ```
@@ -242,7 +242,7 @@ Press any key to continue . . .
 
 退出cmd命令行模式
 
-```bat
+```batch
 exit
 ```
 
@@ -268,7 +268,7 @@ exit
 
 问`exit`命令是干啥的，使用的语法是怎样的，测试如下
 
-```bat
+```batch
 C:\Users\MaxWell>exit /?
 Quits the CMD.EXE program (command interpreter) or the current batch
 script.
