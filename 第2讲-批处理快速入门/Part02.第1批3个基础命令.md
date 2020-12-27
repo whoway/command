@@ -95,8 +95,10 @@ pause
 
 </br>
 
-
 ## （2）cls (Clean Screen)命令 
+
+clearthe terminal screen
+
 清除屏幕。  
 
 执行该命令后，屏幕上的所有信息都被清除，光标重新定位至屏幕左上角。

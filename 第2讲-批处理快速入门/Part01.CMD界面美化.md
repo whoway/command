@@ -84,7 +84,21 @@ Color f 或Color 0f
 
 
 
+## （4）更简单的修改界面方式
 
+
+
+- 将鼠标放置于	`cmd`    界面上方的白色条，接着敲击鼠标右键，效果如下
+- ![06.默认值](.\img\06.默认值.png)
+- ![07.修改界面-全程有效](.\img\07.修改界面-全程有效.png)
+
+
+
+读者@[eacryo](https://github.com/eacryo)设置效果展示：
+
+![08.eacryo](.\img\08.eacryo.png)
+
+通过修改透明度实现，使得界面类似Linux终端:smile:
 
 
 
