@@ -7,5 +7,6 @@
 
 [![stars](https://badgen.net/github/stars//HACV/Command?icon=github&color=4ab8a1)](https://github.com/HACV) [![forks](https://badgen.net/github/forks//HACV/Command?icon=github&color=4ab8a1)](https://github.com/HACV)
 
-[开始阅读](./README.md)
 
+[开始阅读](https://hacv.gitee.io/command/#/)
+[GitHub](https://github.com/HACV)
