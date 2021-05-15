@@ -34,17 +34,17 @@
 - [🐾 第4讲-批处理脚本编程](./book/第4讲-批处理脚本编程/第4讲.md)
   
   - 第1部分（更新 ing:smile:）
-- 第2部分
+  - 第2部分
   
 - [⭐️ 第5讲-系统管理](./book/第5讲-系统管理/第5讲.md)
   
   - 第1部分
-- 第2部分
+  - 第2部分
   
 - [✔️ 第6讲-网络管理](./book/第6讲-网络管理/第6讲.md)
   
   - 第1部分
-- 第2部分
+  - 第2部分
   
 - 🎨 第7讲-敬请期待
   - 第1部分
@@ -57,7 +57,7 @@
 - [🔧 第9讲-工具箱](./book/第9讲-工具箱/第9讲.md)
   
   - 第1部分
-- 第2部分
+  - 第2部分
   
   
 
@@ -71,15 +71,21 @@
 
 
 
-#### 2、Thanks（ing）
+#### 2、致谢
 
-如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系。    
+:email: hacvhacv@qq.com  
 
-:email: flushbit@163.com  
+感谢以下人员对本仓库做出的贡献。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系
 
-感谢名单：  
 
-@[eacryo](https://github.com/eacryo) 
+
+<a href="https://github.com/flushbit">
+    <img src="https://avatars.githubusercontent.com/u/79432824?v=4" width="50px">
+</a>
+
+<a href="https://github.com/eacryo">
+    <img src="https://avatars.githubusercontent.com/u/47842169?v=4" width="50px">
+</a>
 
 
 
