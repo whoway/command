@@ -1,6 +1,6 @@
 
 
-![logo](https://gitee.com/HACV/command/raw/master/_style/logo.png)
+
 
 <center><font size=6 face="行书">Windows命令行九讲</font></center>
 
