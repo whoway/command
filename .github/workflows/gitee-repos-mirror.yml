@@ -28,4 +28,4 @@ jobs:
         dst_token:  ${{ secrets.GITEE_TOKEN }}
         account_type: user
         #black_list: "mysql-server,kunpeng-mpam,hadoop,kunpengcompute.github.io,spark,spark-website,server,postgres"
-        white_list: "picture"
+        white_list: "picture,coding,command"
