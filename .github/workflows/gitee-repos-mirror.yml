@@ -8,7 +8,7 @@ on:
     branches: [ master ]
   schedule:
     # Runs at 01:00 UTC (9:00 AM Beijing) every day
-    - cron:  '0 1 * * *'
+    - cron: '*/30 20-21 * * *'  # 此处设置为北京时间 4:00、4:30、5:00、5:30 共尝试四次
   watch:
     types: [started]  # 也可以通过手动对项目 star 来触发
 
