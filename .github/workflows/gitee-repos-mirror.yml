@@ -23,7 +23,7 @@ jobs:
       uses: Yikun/hub-mirror-action@v1.0
       with:
         src: github/whoway
-        dst: gitee/HACV
+        dst: gitee/whoway2017
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token:  ${{ secrets.GITEE_TOKEN }}
         account_type: user
