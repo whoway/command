@@ -73,7 +73,7 @@
 
 #### 2、致谢
 
-:email: hacvhacv@qq.com  
+:email: whoway2017@qq.com  
 
 感谢以下人员对本仓库做出的贡献。如果你希望被添加到这个名单中，并且提交过 Issue 或者 PR，请与我联系
 
