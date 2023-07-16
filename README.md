@@ -11,24 +11,24 @@
 
 - ### [🎨 第1讲-走进Windows命令行](https://hacv.gitee.io/command/#/)
 
-  - [Part00.Windows命令行九讲](./第1讲-走进Windows命令行/Part00.Windows命令行九讲.md)
-  - [Part01.Windows命令行展示](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part01.Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B1%95%E7%A4%BA)
-  - [Part02.历史的年轮](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part02.%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B9%B4%E8%BD%AE)
-  - [Part03.学习指南](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part03.%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
+  - [Part00.Windows命令行九讲](./book/第1讲-走进Windows命令行/Part00.Windows命令行九讲.md)
+  - [Part01.Windows命令行展示](./book/第1讲-走进Windows命令行/Part01.Windows命令行展示.md)
+  - [Part02.历史的年轮](./book/第1讲-走进Windows命令行/Part02.历史的年轮.md)
+  - [Part03.学习指南](./book/第1讲-走进Windows命令行/Part03.学习指南.md)
 
 
 - ### [:rocket: 第2讲-批处理快速入门](./第2讲-批处理快速入门/第2讲.md)
   
-  - [Part01.CMD界面美化](./第2讲-批处理快速入门/Part01.CMD界面美化.md)
-  - [Part02.第1批3个基础命令](./第2讲-批处理快速入门/Part02.第1批3个基础命令.md)
-  - [Part03.第2批3个基础命令](./第2讲-批处理快速入门/Part03.第2批3个基础命令.md)
-  - [Part04.批处理特殊符号](./第2讲-批处理快速入门/Part04.批处理特殊符号.md)
+  - [Part01.CMD界面美化](./book/第2讲-批处理快速入门/Part01.CMD界面美化.md)
+  - [Part02.第1批3个基础命令](./book/第2讲-批处理快速入门/Part02.第1批3个基础命令.md)
+  - [Part03.第2批3个基础命令](./book/第2讲-批处理快速入门/Part03.第2批3个基础命令.md)
+  - [Part04.批处理特殊符号](./book/第2讲-批处理快速入门/Part04.批处理特殊符号.md)
 
 
 - ### [:file_folder: 第3讲-文件夹和文件管理](./第3讲-文件夹和文件管理/第3讲.md)
   
-  - [Part01.文件夹管理](./第3讲-文件夹和文件管理/Part01.文件夹管理.md)
-  - [Part02.文件管理](./第3讲-文件夹和文件管理/Part02.文件管理.md)
+  - [Part01.文件夹管理](./book/第3讲-文件夹和文件管理/Part01.文件夹管理.md)
+  - [Part02.文件管理](./book/第3讲-文件夹和文件管理/Part02.文件管理.md)
 
 
 - [🐾 第4讲-批处理脚本编程](./book/第4讲-批处理脚本编程/第4讲.md)
