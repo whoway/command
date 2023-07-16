@@ -11,7 +11,7 @@
 
 - ### [🎨 第1讲-走进Windows命令行](https://hacv.gitee.io/command/#/)
 
-  - [Part00.Windows命令行九讲](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/%E7%AC%AC1%E8%AE%B2)
+  - [Part00.Windows命令行九讲](./第1讲-走进Windows命令行/Part00.Windows命令行九讲.md)
   - [Part01.Windows命令行展示](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part01.Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B1%95%E7%A4%BA)
   - [Part02.历史的年轮](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part02.%E5%8E%86%E5%8F%B2%E7%9A%84%E5%B9%B4%E8%BD%AE)
   - [Part03.学习指南](https://hacv.gitee.io/command/#/./%E7%AC%AC1%E8%AE%B2-%E8%B5%B0%E8%BF%9BWindows%E5%91%BD%E4%BB%A4%E8%A1%8C/Part03.%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97)
