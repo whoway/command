@@ -9,7 +9,7 @@
 ### 一、:memo: 目录
 
 
-- ### [🎨 第1讲-走进Windows命令行](https://hacv.gitee.io/command/#/)
+- ### [🎨 第1讲-走进Windows命令行](./book/第1讲-走进Windows命令行/第1讲.md)
 
   - [Part00.Windows命令行九讲](./book/第1讲-走进Windows命令行/Part00.Windows命令行九讲.md)
   - [Part01.Windows命令行展示](./book/第1讲-走进Windows命令行/Part01.Windows命令行展示.md)
@@ -17,7 +17,7 @@
   - [Part03.学习指南](./book/第1讲-走进Windows命令行/Part03.学习指南.md)
 
 
-- ### [:rocket: 第2讲-批处理快速入门](./第2讲-批处理快速入门/第2讲.md)
+- ### [:rocket: 第2讲-批处理快速入门](./book/第2讲-批处理快速入门/第2讲.md)
   
   - [Part01.CMD界面美化](./book/第2讲-批处理快速入门/Part01.CMD界面美化.md)
   - [Part02.第1批3个基础命令](./book/第2讲-批处理快速入门/Part02.第1批3个基础命令.md)
@@ -25,7 +25,7 @@
   - [Part04.批处理特殊符号](./book/第2讲-批处理快速入门/Part04.批处理特殊符号.md)
 
 
-- ### [:file_folder: 第3讲-文件夹和文件管理](./第3讲-文件夹和文件管理/第3讲.md)
+- ### [:file_folder: 第3讲-文件夹和文件管理](./book/第3讲-文件夹和文件管理/第3讲.md)
   
   - [Part01.文件夹管理](./book/第3讲-文件夹和文件管理/Part01.文件夹管理.md)
   - [Part02.文件管理](./book/第3讲-文件夹和文件管理/Part02.文件管理.md)
